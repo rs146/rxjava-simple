@@ -2,10 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9fe6c058-d2b6-4ad2-a3dc-e89c7524d408" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/HomeworkDoOnNext.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/HomeworkFilters.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/test/java/HomeworkTake.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
     </list>
@@ -75,8 +71,8 @@
       <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="93" lean-forward="false" selection-start-line="9" selection-start-column="93" selection-end-line="9" selection-end-column="93" />
+            <state relative-caret-position="150">
+              <caret line="10" column="31" lean-forward="false" selection-start-line="10" selection-start-column="31" selection-end-line="10" selection-end-column="31" />
               <folding />
             </state>
           </provider>
@@ -876,6 +872,14 @@
       <option name="presentableId" value="Default" />
       <updated>1495013613708</updated>
     </task>
+    <task id="LOCAL-00001" summary="Homework assignments.">
+      <created>1495103336016</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1495103336016</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -923,6 +927,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Homework assignments." />
+    <option name="LAST_COMMIT_MESSAGE" value="Homework assignments." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1049,8 +1057,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="93" lean-forward="false" selection-start-line="9" selection-start-column="93" selection-end-line="9" selection-end-column="93" />
+        <state relative-caret-position="150">
+          <caret line="10" column="31" lean-forward="false" selection-start-line="10" selection-start-column="31" selection-end-line="10" selection-end-column="31" />
           <folding />
         </state>
       </provider>

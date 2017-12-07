@@ -1,5 +1,8 @@
 import org.junit.Test;
 import rx.Observable;
+import rx.Observer;
+import rx.functions.Action1;
+import rx.functions.Func1;
 
 import java.util.Arrays;
 import java.util.List;
@@ -18,10 +21,20 @@ public class UseOfMap {
     public void appendSurname() {
         Observable.from(names)
                 .map(inputString -> inputString.concat(" Tamburrino"))
-                .toList()
-                .subscribe(resultList -> {
-                    for (String newName : resultList) {
-                        System.out.println(newName);
+                .subscribe(new Observer<String>() {
+                    @Override
+                    public void onCompleted() {
+
+                    }
+
+                    @Override
+                    public void onError(Throwable e) {
+
+                    }
+
+                    @Override
+                    public void onNext(String s) {
+                        System.out.print(s);
                     }
                 });
     }
